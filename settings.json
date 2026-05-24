@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Welcome to YourSurvivalPlan! Use /rtp to start!",
+        "Use /tpa to tpa to different players!",
+        "I'm a bot! I cannot respond to you!"
       ]
     },
     "chat-log": true,
