@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "WelcomeToYourSurvivalPlan",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "YourSurvivalPlan.aternos.me",
+    "port": 63703,
     "version": "",
     "try-creative": false
   },
